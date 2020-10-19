@@ -1,3 +1,10 @@
+## 知识诅咒
+```
+The curse of knowledge is a cognitive bias that occurs when, in predicting others' forecasts or behaviors, individuals are unable to ignore the knowledge they have that others do not have, or when they are unable to disregard information already processed
+
+当人们预测他人的行为时，如果自己无法忽略自己拥有而对方缺乏的知识的，或者无法忽视自己已经处理的信息的时候，就会产生这种偏见
+```
+
 ## 如何避免知识诅咒
 　　1、明确学习对象：学习的接收者是他而不是你。
 
